@@ -1,0 +1,20 @@
+1. The computer selects a secret combination of four numbers from 1 to 6.
+
+2. The player (code-breaker) tries to guess the secret combination within a limited number of attempts.
+
+3. After each guess, the computer provides feedback with "red" and "yellow" matches:
+
+"Red" matches represent correct numbers in the correct position.
+"Yellow" matches represent correct numbers in the wrong position.
+The feedback symbols are provided together after each guess.
+
+4. The game continues until the player correctly guesses the entire secret combination or uses all attempts.
+
+5. The player's objective is to deduce the secret combination as efficiently as possible based on the feedback provided by the computer.
+
+6. The computer's objective is to create a challenging secret combination.
+
+7. The number of attempts allowed may vary depending on the version of the game.
+
+8. These are the essential rules for playing the Skocko game on Slagalica. The player's goal is to use deduction and logic to make the best guesses based on the feedback provided by the computer (red and yellow matches) to eventually solve the secret combination.
+
